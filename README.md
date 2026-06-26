@@ -67,7 +67,7 @@ This project focuses on analyzing Covid-19 pandemic data using Python. It involv
 ---
 
 ## 🔹 Project Structure
-``
+
 ## 🔹 Key Learnings
 - Data cleaning and preprocessing techniques  
 - Exploratory data analysis and visualization  
